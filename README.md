@@ -19,5 +19,4 @@ This Python script fetches current weather details for a specified location usin
 >- Customize 'units' parameter in the API request for temperature units (metric for Celsius, imperial for Fahrenheit).
 >- Ensure a stable internet connection for successful API requests.
 
-* Author:
->- Jerome Acolatse
+
